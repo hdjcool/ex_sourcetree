@@ -6,3 +6,6 @@ revert 5
 revert 6
 revert 7
 0.5 버전 안정화
+tag1
+push1
+push2
